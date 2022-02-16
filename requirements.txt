@@ -37,7 +37,7 @@ MarkupSafe==1.1.1
 matplotlib==3.5.1
 mysql-connector-python==8.0.27
 mysqlclient==2.1.0
-networkx==2.0.dev20160901144005
+
 numpy==1.18.1
 oauthlib==3.1.1
 opt-einsum==3.3.0
